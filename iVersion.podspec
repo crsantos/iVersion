@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary      = "Library for checking for updates to Mac/iPhone App Store apps from within the application and notifying users about the new release."
   s.homepage     = "https://github.com/nicklockwood/iVersion"
   s.authors      = { "Nick Lockwood" => "support@charcoaldesign.co.uk" }
-  s.source       = { :git => "https://github.com/nicklockwood/iVersion.git", :tag => "1.10.6" }
+  s.source       = { :git => "https://github.com/crsantos/iVersion.git", :tag => "1.10.7" }
   s.source_files = 'iVersion'
   s.resources    = 'iVersion/iVersion.bundle'
   s.requires_arc = true
